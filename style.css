@@ -1,0 +1,113 @@
+header{
+    background-color: rgba(12, 248, 102, 0.868);
+    padding: 1%;
+    border-radius: 20px;
+}
+
+main{
+    background-color: rgba(175, 237, 199, 0.64);
+    border-radius: 20px;   
+    padding: 20px;
+    margin: 10px;
+}
+
+footer{
+    background-color: rgba(12, 248, 102, 0.868);
+    padding-top: 1px;
+    height: 75px;
+    border-radius: 20px;
+}
+
+img#logo{
+    width: 150px;
+    margin-left: 44%;
+}
+
+img#florence{
+    width: 350px;
+    margin-left: 39%;
+}
+
+h1{
+    font-family: Verdana;
+    font-size: 27px;
+    text-align: center;
+}
+
+h2{
+    font-family: Verdana;
+    text-indent: 40px; 
+}
+
+p{
+    font-family: arial;
+    font-size: 17px;
+    text-align: justify;
+    text-indent: 40px;
+    margin-bottom: 15px;
+}
+
+p#rodape{
+    text-align: center;
+    font-size: 15px;
+}
+
+p#legenda_foto{
+    margin-left: 610px;
+    font-size: 14px;
+    font-family: arial black;
+}
+
+p#bons_estudos{
+    text-align: right; 
+}
+
+table#vias_parenterais{
+    width: 1000px;
+    height: 450px;
+    margin-left: 230px;
+    background-color: rgba(238, 241, 237, 0.942);
+}
+
+tr, td, th{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid;
+}
+
+th#tipo_de_injecao{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    margin-left: 270px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: aquamarine;
+}
+
+table{
+    height: 500px;
+    width: 500px;
+    margin-left: 430px;
+    border-collapse: collapse;
+}
+
+img#infografico_vias{
+    width: 800px;
+    padding-top: 20px;
+    margin-left: 330px;
+}
+
+
